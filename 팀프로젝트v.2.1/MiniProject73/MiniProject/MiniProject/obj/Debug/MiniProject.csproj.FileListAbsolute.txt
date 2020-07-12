@@ -1,0 +1,280 @@
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\andan\source\repos\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\andan\source\repos\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueFrom1.resources
+C:\Users\admin\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueFrom1.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1321375\수업 자료\프로젝트\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\합치기 v.1.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\admin\Desktop\병합\원본\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\admin\Desktop\병합\완료\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\andan\OneDrive\바탕화~1-DESKTOP-VRMPGVU-1527822\수업 자료\찐 프로젝트\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.MainForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\user\Desktop\새 폴더\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\admin\Desktop\팀프로젝트v.1.2\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.All_Products.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.BuyForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.DiffShowForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.RmdForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Specific_Form.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdListForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdMemberForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdministrationForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.AdStatisticsForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.LoginForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.NewMemberForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.ProductForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.QueForm.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.Form2.resources
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CopyComplete
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\user\Desktop\팀프로젝트v.2.1\MiniProject73\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
