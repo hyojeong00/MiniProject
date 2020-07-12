@@ -243,5 +243,10 @@ namespace MiniProject
             txtPassword.BackColor = SystemColors.Control;
             panel7.BackColor = SystemColors.Control;
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
