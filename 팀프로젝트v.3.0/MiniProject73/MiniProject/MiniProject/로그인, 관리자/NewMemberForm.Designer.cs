@@ -160,7 +160,7 @@
             this.btnID.ForeColor = System.Drawing.Color.White;
             this.btnID.Location = new System.Drawing.Point(441, 0);
             this.btnID.Name = "btnID";
-            this.btnID.Size = new System.Drawing.Size(106, 36);
+            this.btnID.Size = new System.Drawing.Size(106, 50);
             this.btnID.TabIndex = 2;
             this.btnID.Text = "중복확인";
             this.btnID.UseVisualStyleBackColor = false;
